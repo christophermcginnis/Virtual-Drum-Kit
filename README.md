@@ -1,1 +1,1 @@
-# Virtual-Drum-Kit
+This is a project I worked on in my free time over the course of a few hours. I spent most of my time learning new concepts. I had a lot of fun creating this simple virtual drum kit using Adobe Illustrator and Javascript and will probably come back in the future as my skills progress to elaborate on the concept, if even just for fun. I hope to add different kits, that users can scroll through, spanning various genres.
